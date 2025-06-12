@@ -8,6 +8,7 @@ Os arquivos estão organizados por pastas, separando os conteúdos conforme os m
 
 - **/hello** – Exercício de introdução com o clássico “Hello, world!” em Motoko.  
 - **/exercicio2** – Conceitos de variáveis, tipos de dados e funções.
+- **/exercicio3** – Uso de Buffers em Motoko
 
 ## 🧰 Tecnologias e Ferramentas
 
