@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "exercicio4_backend": {
+      "main": "src/exercicio4_backend/main.mo",
+      "type": "motoko"
+    },
+    "exercicio4_frontend": {
+      "dependencies": [
+        "exercicio4_backend"
+      ],
+      "source": [
+        "src/exercicio4_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "exercicio4_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
