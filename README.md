@@ -10,6 +10,7 @@ Os arquivos estão organizados por pastas, separando os conteúdos conforme os m
 - **/exercicio2** – Conceitos de variáveis, tipos de dados e funções.
 - **/exercicio3** – Uso de Buffers em Motoko
 - **/exercicio4** – Adicionando novas funcionalidades para aprimorar a interação entre o frontend e o backend. 
+- **/exercicio5** – login ICP
 
 ## 🧰 Tecnologias e Ferramentas
 
